@@ -35,7 +35,7 @@
     "update-notifier": "^3.0.1"
   },
   "devDependencies": {
-    "ava": "^2.2.0",
+    "ava": "^2.3.0",
     "execa": "^2.0.3",
     "xo": "^0.24.0"
   },
